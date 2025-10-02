@@ -1,6 +1,6 @@
 # PA2-Used-Cars-Price-Prediction
 Analyze what drives the price of used cars to provide recommendations to a used car dealership.
-[prompt]()
+[prompt](https://github.com/MeghanHan/PA2-Used-Cars-Price-Prediction/blob/main/prompt_II.ipynb)
 [images](https://github.com/MeghanHan/PA2-Used-Cars-Price-Prediction/tree/main/images)
 
 ## Findings:
