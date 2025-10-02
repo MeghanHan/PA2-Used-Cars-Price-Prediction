@@ -1,7 +1,6 @@
 # PA2-Used-Cars-Price-Prediction
 Analyze what drives the price of used cars to provide recommendations to a used car dealership.
-[prompt](https://github.com/MeghanHan/PA2-Used-Cars-Price-Prediction/blob/main/prompt_II.ipynb)
-[images](https://github.com/MeghanHan/PA2-Used-Cars-Price-Prediction/tree/main/images)
+[prompt](https://github.com/MeghanHan/PA2-Used-Cars-Price-Prediction/blob/main/prompt_II.ipynb) and [images](https://github.com/MeghanHan/PA2-Used-Cars-Price-Prediction/tree/main/images)
 
 ## Findings:
 - Used car prices are positively correlated with the number of cylinders, the size of the car and negatively correlated with the age and the mileage of the car. 
